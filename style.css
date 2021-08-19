@@ -44,7 +44,7 @@ main{
 .ping img{
     width: 15%;
     height: auto;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 header{
     display: flex;
